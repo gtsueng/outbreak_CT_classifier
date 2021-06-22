@@ -1,0 +1,1 @@
+This repository was used for the development of scripts to classify Clinical Trials in outbreak.info based on specialized metadata fields for the purposes of creating training datasets. It has since been incorporated into the main TopicClassifier 
